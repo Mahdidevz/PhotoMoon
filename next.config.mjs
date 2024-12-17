@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: 'export',
-    assetPrefix : '/',
+    // output: 'export',
+    // assetPrefix : '/',
 };
 export default nextConfig;
